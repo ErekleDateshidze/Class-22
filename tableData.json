@@ -1,0 +1,38 @@
+[
+    {
+        "name": "john",
+        "age": 50
+    },
+    {
+        "name": "erekle",
+        "age": 21
+    },
+    {
+        "name": "giorgi",
+        "age": 29
+    },
+    {
+        "name": "dato",
+        "age": 53
+    },
+    {
+        "name": "jason",
+        "age": 32
+    },
+    {
+        "name": "aleko",
+        "age": 12
+    },
+    {
+        "name": "nino",
+        "age": 15
+    },
+    {
+        "name": "gia",
+        "age": 42
+    },
+    {
+        "name": "levani",
+        "age": 29
+    }
+]
